@@ -1,6 +1,10 @@
 # Multi-Label Multi/Single-Class Image Segmentation
 
 
+<br>
+ <img height="500" src="images/diag.png"/>
+</br>
+
 # Running the Program!
 
 First, user needs to install Anaconda https://www.anaconda.com/
@@ -26,4 +30,4 @@ After lunching the graphical user interface, user will need to provide necessary
 
 <br>
  <img height="500" src="images/GUI.png" />
- </br>
+</br>
