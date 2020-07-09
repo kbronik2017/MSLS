@@ -35,7 +35,7 @@ After lunching the graphical user interface, user will need to provide necessary
 # Testing the Program!
 
 <br>
- <img height="700" src="images/multi_seg_ex.jpg" />
+ <img height="600" src="images/multi_seg_ex.jpg" />
 </br>
 
 
