@@ -2,7 +2,7 @@
 
 
 <br>
- <img height="500" src="images/diag.png"/>
+ <img height="510" src="images/diag.png"/>
 </br>
 
 # Running the Program!
